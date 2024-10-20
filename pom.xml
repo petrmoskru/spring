@@ -8,7 +8,7 @@
 		<version>3.4.0-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>ru.slobodchikov</groupId>
+	<groupId>ru.moskovskikh</groupId>
 	<artifactId>MyFirstTestAppSpringBoot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>MyFirstTestAppSpringBoot</name>
